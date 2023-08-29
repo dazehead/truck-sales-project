@@ -1,12 +1,10 @@
-This notebook contains data scraped from a used truck sales websites. The goal of this is project is to do the following:
-* Retrieve our data from webscrapes "wild data"
-* Clean the data so it is ready for analysis
-* Develop some questions for analysis
-* Analyze variables within the data to gain patterns and insights on these questions
-* Store data in a database
-* Create a [dashboard presentation using Tableau](https://public.tableau.com/app/profile/devan.veach/viz/Used-HD-Truck-Sales/Dashboard)
+## Used Truck Sales Analysis
 
+* start with truck_sales which is a Jupyter Notebook
+* The SQLite folder holds the cleaned data
+* Tableau folder holds a png of the dashboard; however, there is a link to my Tableau profile in the Jupyter Notbook where you can interactact with the dashboard
 
-The data for this project was gathered using Web Scraper; a free Edge plug-in, from [equiptment experts](https://www.equipmentexperts.com/). This website shows listings for Class A heavy duty equiptment.
+#### I learned a lot during this project and I hope to get some good feedback on any possible upgrades
 
-remember thse are USED trucks. They are compared to other USED trucks and are NOT compared to new trucks.
+I am starting to take Intermediate and Advanced Python and I would like some suggestions on how I could incorporate the unpacking operator `*` or maybe the `@` decorator operator.
+
